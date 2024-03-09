@@ -31,9 +31,7 @@ origins = [
     #"http://localhost.tiangolo.com",
     #"https://localhost.tiangolo.com",
     # "http://localhost"
-    "https://angular-production-69eb.up.railway.app",
-    "http://angular-production-69eb.up.railway.app",
-    "angular-production-69eb.up.railway.app",
+    "https://angular-production-9559.up.railway.app/",
     "http://localhost:4200"
 ]
 
